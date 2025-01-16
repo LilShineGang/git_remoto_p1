@@ -1,0 +1,1 @@
+Este proyecto es un ejercicio de la asignatura de Entornos de Desarrollo.
